@@ -1,4 +1,4 @@
-# Object-Oriented Parking Management System (Kotlin)
+# Parking Lot (Kotlin)
 
 An idiomatic, command-line state engine that simulates real-time parking lot allocations, query indexing, and state mutations using advanced Kotlin scope constructs.
 
